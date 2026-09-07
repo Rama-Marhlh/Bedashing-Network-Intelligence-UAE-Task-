@@ -1,0 +1,45 @@
+{
+  "purpose": "Market-based whitespace decision support; not a financial site-selection decision",
+  "h3_resolution": 7,
+  "competitor_radius_km": 3.0,
+  "minimum_output_population": 25.0,
+  "minimum_grow_population": 500.0,
+  "minimum_watch_population": 250.0,
+  "weights": {
+    "population": 0.4,
+    "coverage_gap": 0.3,
+    "market_activity": 0.15,
+    "competition_headroom": 0.15
+  },
+  "thresholds": {
+    "grow_score": 70.0,
+    "watch_score": 45.0,
+    "grow_min_coverage_gap_pct": 70.0,
+    "watch_min_coverage_gap_pct": 40.0
+  },
+  "population_source": "WorldPop Global2 R2025A v1; UAE constrained population count; 2025; approximately 100m; people per pixel",
+  "competitor_scope": "Observed Google Places competitors from the defined adaptive search; not an exhaustive UAE business census",
+  "catchment_scope": "Modelled 10-minute destination drive-time catchments using OpenRouteService and OpenStreetMap roads; not live traffic or observed customer origins",
+  "missing_decision_inputs": [
+    "household income",
+    "retail rent",
+    "commercial footfall",
+    "customer origins",
+    "Bedashing revenue",
+    "appointments/utilization",
+    "site availability"
+  ],
+  "raster_validation": {
+    "raster_crs": "EPSG:4326",
+    "raster_width": 5861,
+    "raster_height": 4124,
+    "raster_bounds": [
+      51.498332407339994,
+      22.632500245469984,
+      56.382499054469996,
+      26.069166898389984
+    ],
+    "positive_population_pixels": 1118404,
+    "raster_population_total": 11215126.99388573
+  }
+}

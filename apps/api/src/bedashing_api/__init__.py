@@ -1,0 +1,1 @@
+"""Bedashing application API."""

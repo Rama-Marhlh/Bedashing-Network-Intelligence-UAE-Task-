@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Body & Grooming",
+    "variant_count": 27,
+    "minimum_price_aed": 36.0,
+    "maximum_price_aed": 420.0,
+    "median_price_aed": 262.5,
+    "average_price_aed": 214.22,
+    "median_productivity_aed_per_hour": 244.0
+  },
+  {
+    "category": "Face",
+    "variant_count": 16,
+    "minimum_price_aed": 60.0,
+    "maximum_price_aed": 3150.0,
+    "median_price_aed": 262.5,
+    "average_price_aed": 474.75,
+    "median_productivity_aed_per_hour": 350.0
+  },
+  {
+    "category": "Hair",
+    "variant_count": 150,
+    "minimum_price_aed": 15.75,
+    "maximum_price_aed": 2100.0,
+    "median_price_aed": 317.5,
+    "average_price_aed": 413.4,
+    "median_productivity_aed_per_hour": 525.0
+  },
+  {
+    "category": "Nails",
+    "variant_count": 49,
+    "minimum_price_aed": 10.5,
+    "maximum_price_aed": 389.0,
+    "median_price_aed": 136.5,
+    "average_price_aed": 145.26,
+    "median_productivity_aed_per_hour": 160.0
+  },
+  {
+    "category": "The Romoosh Lash Bar",
+    "variant_count": 8,
+    "minimum_price_aed": 350.0,
+    "maximum_price_aed": 500.0,
+    "median_price_aed": 425.0,
+    "average_price_aed": 425.0,
+    "median_productivity_aed_per_hour": null
+  }
+]

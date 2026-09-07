@@ -1,0 +1,25 @@
+﻿branch_id,branch_name,latitude,longitude,coordinate_source,status,polygon_count,error,source_endpoint,processed_at
+37,Al Ain,24.2266835,55.6599794,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:05+00:00
+30,Al Barsha,25.1131451,55.2156092,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:05+00:00
+46,Al Dhafra Branch,23.6280524,53.7141144,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:06+00:00
+39,Al Falah,24.4428939,54.7396974,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:06+00:00
+50,Al Jada,25.3192096,55.4799114,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:06+00:00
+45,Al Maqta,24.4130516,54.4929556,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:06+00:00
+51,Al Taif Mall,25.1202606,56.3253503,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:06+00:00
+36,Baniyas,24.2973631,54.6332474,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:07+00:00
+28,City Walk,25.2019849,55.2638147,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:07+00:00
+38,Delma,24.467954,54.3847796,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:07+00:00
+32,Jumeirah Park,25.039154000000003,55.1659736,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:07+00:00
+40,Khaleej Al Arabi,24.458870200000003,54.3537762,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:07+00:00
+41,Khalifa City A,24.4399805,54.5989056,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:08+00:00
+43,Ministries Complex,24.432147,54.4647516,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:08+00:00
+29,Mirdif 35,25.2322986,55.4329599,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:08+00:00
+44,Mohammed Bin Zayed City,24.3667831,54.5403404,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:08+00:00
+31,Nad Al Sheba,25.1595625,55.3696875,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:09+00:00
+52,Noya Plaza,24.4995625,54.6254375,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:09+00:00
+48,Ras Al Khaimah,25.751541,55.9198717,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:09+00:00
+35,Shahama,24.5243742,54.6718965,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:09+00:00
+42,Shakhbout City,24.3481854,54.6238561,Google Places matched coordinates,FETCHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:12+00:00
+34,Westyas Branch,24.4934924,54.5868369,Google Places matched coordinates,FETCHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:12+00:00
+49,Zawaya Walk,25.3306234,55.4294728,Google Places matched coordinates,FETCHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:13+00:00
+47,Zayed International Airport,24.4527718,54.6411421,Google Places matched coordinates,CACHED,3,,https://api.heigit.org/openrouteservice/v2/isochrones/driving-car,2026-09-02T16:02:14+00:00

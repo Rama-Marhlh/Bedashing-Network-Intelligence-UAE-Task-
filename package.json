@@ -1,0 +1,31 @@
+{
+  "name": "bedashing-analytics",
+  "private": true,
+  "workspaces": [
+    "apps/web",
+    "packages/data-contract"
+  ],
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  },
+  "scripts": {
+    "dev": "npm run sync:data && npm run dev --workspace @bedashing/web",
+    "dev:api": "python -m uvicorn bedashing_api.main:app --app-dir apps/api/src --reload --host 127.0.0.1 --port 8000",
+    "dev:web": "npm run sync:data && npm run dev --workspace @bedashing/web",
+    "publish:data": "python scripts/publish_app_data.py",
+    "sync:data": "python scripts/sync_app_data.py",
+    "validate:data": "python scripts/validate_app_data.py",
+    "test:python": "python -m pytest",
+    "test:ts": "npm run test --workspaces --if-present",
+    "lint:python": "python -m ruff check apps/api scripts tests",
+    "format:python": "python -m ruff format apps/api scripts tests",
+    "format:check:python": "python -m ruff format --check apps/api scripts tests",
+    "format:ts": "prettier --write apps/web packages/data-contract *.json *.md",
+    "format:check:ts": "prettier --check apps/web packages/data-contract *.json *.md",
+    "lint:ts": "npm run lint --workspace @bedashing/data-contract && npm run lint --workspace @bedashing/web",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "build": "npm run build --workspace @bedashing/web",
+    "test": "npm run test:python && npm run test:ts",
+    "check": "npm run validate:data && npm run lint:python && npm run format:check:python && npm run format:check:ts && npm run test && npm run lint:ts && npm run typecheck"
+  }
+}

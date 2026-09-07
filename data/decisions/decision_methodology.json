@@ -1,0 +1,53 @@
+{
+  "purpose": "Explainable external-market decision support for Bedashing UAE.",
+  "branch_model": {
+    "score_range": "0-100 relative to the 24-branch network",
+    "weights": {
+      "customer_signal_score": 0.35,
+      "competitive_position_score": 0.25,
+      "network_value_score": 0.3,
+      "catchment_reach_score": 0.1
+    },
+    "customer_signal": "One 35%-weighted customer component: 60% Bayesian rating quality, 25% analysed positive-minus-negative sentiment balance, 10% analysed review evidence, and 5% sample coverage. Sentiment is rating-based and is not treated as an independent top-level signal.",
+    "review_topics": "Arabic/English deterministic topic mentions are explanatory evidence only and cannot independently change PROTECT/HOLD/SHRINK.",
+    "competitive_position": "65% relative weighted-rating gap + 35% inverse direct-competitor density",
+    "network_value": "Percentile of unique 10-minute coverage; self-overlap is shown as the inverse risk signal and is not double-counted",
+    "catchment_reach": "Percentile of modelled 10-minute catchment area",
+    "thresholds": {
+      "PROTECT": "health >= 62",
+      "SHRINK": "health < 40 AND below-median unique coverage OR material self-overlap",
+      "HOLD": "all other cases"
+    },
+    "guardrail": "SHRINK means priority for internal commercial review, never automatic closure.",
+    "confidence_cap": 80
+  },
+  "growth_model": {
+    "source": "Existing opportunity_score and GROW/WATCH/SKIP classification from 07_build_whitespace.py",
+    "cell_count": 5548,
+    "cluster_count": 171,
+    "cluster_priority_score": "70% maximum cell opportunity + 30% mean cluster opportunity",
+    "note": "Adjacent GROW H3 cells are presented as one market cluster, not separate branch openings."
+  },
+  "counts": {
+    "branches": 24,
+    "branch_recommendations": {
+      "HOLD": 12,
+      "PROTECT": 7,
+      "SHRINK": 5
+    },
+    "whitespace_recommendations": {
+      "SKIP": 2599,
+      "GROW": 1727,
+      "WATCH": 1222
+    },
+    "growth_clusters": 171
+  },
+  "known_limitations": [
+    "No revenue, profit, rent, bookings, utilization or customer-origin data.",
+    "Google Places competitors are observed candidates, not an exhaustive UAE business census.",
+    "OpenRouteService catchments are modelled from the road network and are not live-traffic or observed-customer catchments.",
+    "WorldPop is a modelled gridded population estimate, not branch-level demand or spending.",
+    "Review sentiment is derived from review stars; topic extraction uses deterministic bilingual keywords rather than a contextual language model.",
+    "All recommendations require human review and internal commercial validation."
+  ]
+}

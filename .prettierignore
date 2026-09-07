@@ -1,0 +1,7 @@
+app_data/
+data/
+node_modules/
+apps/web/public/app_data/
+apps/web/.next/
+apps/web/tsconfig.tsbuildinfo
+package-lock.json

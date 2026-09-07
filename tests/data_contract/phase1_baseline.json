@@ -1,0 +1,30 @@
+{
+  "captured_after_validated_review_pipeline": "2026-09-03",
+  "scope": "Current approved analytical and review-aware decision outputs; app_manifest.json excluded.",
+  "files": {
+    "app_data/branches.geojson": "e022f4548e3bd5aa4776b1dc2165458cdc694a1d6f34ec049e2e9113c7d76266",
+    "app_data/catchments.geojson": "46ee87ee6f4f26401ff4b1f7b3d2859461693720fe39efaf0a6bff7f3a57a8ea",
+    "app_data/competitors.geojson": "26080df80b577ee0aba9adcc5af40429f7b70e7808e9d60eed5da21f74fa8f0f",
+    "app_data/data_quality.json": "cbcade299b499ec6374f0e6ec41448050c9b56d869fb86780dbfcc5e517e3622",
+    "app_data/growth_clusters.geojson": "217791897173beadd83b08007eb64a552d9dc9941b65631ec14d6e036a2d4599",
+    "app_data/network_summary.json": "9248e864feeec7f60ea0d852cf71546fc468a3f44aff37ab47bb5eabb1862bc6",
+    "app_data/top_10_growth_shortlist.geojson": "0237171efc5a3a8de944728253bca4edddcc501deccbccb8e7a46acb2db1eb56",
+    "app_data/whitespace.geojson": "893468c8118e624efdefa851b0a4d60066c146cf27028a222a100221faae9b8b",
+    "data/analysis/branch_catchment_metrics.csv": "36ae3eaf6192794a09aa53efa08c6bfc71b0e0a785720f3ad9800f4f7813b5e4",
+    "data/analysis/branch_coverage_metrics.csv": "ea0e1482cdd59d14ed0cbb8a0b993ff0c476af6e45518f0989c684bfae9a529d",
+    "data/analysis/branch_overlap.csv": "dc14cc930aba0b2c74be054fc80d3b5e79b4cfc89ba2aa92d6c48a7bf2e6540e",
+    "data/analysis/branch_portfolio_metrics_10min.csv": "e4832c20c9625f41e226bdedbcdef5f8dee25440e5b65feecb81edd25af40321",
+    "data/analysis/competitors_in_catchments.csv": "c34be42f59e10d3cdd2299caa2471287060c9bebd2a06b6ced3d8fc00d81c0e7",
+    "data/analysis/growth_clusters.csv": "16b11c123b415d2dee03305059f53540de5422fa656f7ab4a92780d80850f7bf",
+    "data/analysis/opportunity_methodology.json": "4a58be578baa861abcd92f71c66ebfe6c8387fa200df0fd9f56297b0bbfe0709",
+    "data/analysis/whitespace_opportunities.csv": "33a18f4d73003efe450f5212e4d6ebde88ddd9f753d729c5f6b79ee7980136f6",
+    "data/analysis/whitespace_opportunities.geojson": "b99971e670bc4c7635f6cb1f66a03122311bb8d7f0a287b2b0d7daeb8467f2cb",
+    "data/decisions/branch_decisions.csv": "e309024a32bcc7d614902f163bacb81cf8343331f519afdc48e0361d5caba29c",
+    "data/decisions/decision_methodology.json": "b4c95faee9c8d5c8886610d87195c80ce111a49086752dd5a06a6e710a898663",
+    "data/decisions/growth_candidates_reviewed.csv": "73ca1fcf4c15a8930104ea43910fd00b9d84db490b30490eb43650aa82ea6a18",
+    "data/decisions/growth_recommendations.csv": "ca52f2c4ed23d0e78ada4fa833defd48f0ec03c36633226b3ab2a75ad30fd8d5",
+    "data/decisions/growth_sanity_report.json": "4bc9cb2ab4abb525b6eeb9ec19810bf8c9bac5856f333f6507c51a8d3e51ef86",
+    "data/decisions/top_10_growth_shortlist.csv": "993d3755bad68c3ae9f8446d2e5f37959efacc5142a6e37b78ddfb9d8750c4e1",
+    "data/decisions/whitespace_decisions.csv": "8d9fa11009280534da23c3b91eac41d9af3e4012441621c8283cb682c3f0cd98"
+  }
+}

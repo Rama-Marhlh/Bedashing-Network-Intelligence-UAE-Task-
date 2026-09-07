@@ -1,0 +1,77 @@
+[
+  {
+    "query": "Bedashing Beauty Lounge Shahama UAE",
+    "response": {
+      "places": [
+        {
+          "id": "ChIJh9wAonFPXj4R6P2_rlevv90",
+          "internationalPhoneNumber": "+971 600 560037",
+          "formattedAddress": "Abu Dhabi - Al Shahama Road Deerfields Mall, Shop No 419B - الباهية - الباهية القديمة - أبو ظبي - United Arab Emirates",
+          "location": {
+            "latitude": 24.5243742,
+            "longitude": 54.671896499999995
+          },
+          "rating": 4.6,
+          "googleMapsUri": "https://maps.google.com/?cid=15978682794062642664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "websiteUri": "http://www.bedashingbeauty.com/",
+          "businessStatus": "OPERATIONAL",
+          "userRatingCount": 746,
+          "displayName": {
+            "text": "Bedashing Beauty Lounge",
+            "languageCode": "en"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": "Bedashing Beauty Lounge Al Shahama Road Deerfields Mall Shop 419B Abu Dhabi",
+    "response": {
+      "places": [
+        {
+          "id": "ChIJh9wAonFPXj4R6P2_rlevv90",
+          "internationalPhoneNumber": "+971 600 560037",
+          "formattedAddress": "Abu Dhabi - Al Shahama Road Deerfields Mall, Shop No 419B - الباهية - الباهية القديمة - أبو ظبي - United Arab Emirates",
+          "location": {
+            "latitude": 24.5243742,
+            "longitude": 54.671896499999995
+          },
+          "rating": 4.6,
+          "googleMapsUri": "https://maps.google.com/?cid=15978682794062642664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "websiteUri": "http://www.bedashingbeauty.com/",
+          "businessStatus": "OPERATIONAL",
+          "userRatingCount": 746,
+          "displayName": {
+            "text": "Bedashing Beauty Lounge",
+            "languageCode": "en"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": "Bedashing Deerfields Mall Abu Dhabi",
+    "response": {
+      "places": [
+        {
+          "id": "ChIJh9wAonFPXj4R6P2_rlevv90",
+          "internationalPhoneNumber": "+971 600 560037",
+          "formattedAddress": "Abu Dhabi - Al Shahama Road Deerfields Mall, Shop No 419B - الباهية - الباهية القديمة - أبو ظبي - United Arab Emirates",
+          "location": {
+            "latitude": 24.5243742,
+            "longitude": 54.671896499999995
+          },
+          "rating": 4.6,
+          "googleMapsUri": "https://maps.google.com/?cid=15978682794062642664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "websiteUri": "http://www.bedashingbeauty.com/",
+          "businessStatus": "OPERATIONAL",
+          "userRatingCount": 746,
+          "displayName": {
+            "text": "Bedashing Beauty Lounge",
+            "languageCode": "en"
+          }
+        }
+      ]
+    }
+  }
+]

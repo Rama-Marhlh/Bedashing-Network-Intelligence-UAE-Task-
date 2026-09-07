@@ -1,0 +1,51 @@
+{
+  "estimate_type": "THEORETICAL_GROSS_SERVICE_SALES_CAPACITY",
+  "formula": "open hours/day × operating days/month × productive staff × utilization rate × list productivity AED/hour × realization factor",
+  "sourced_inputs": {
+    "opening_hours_per_day": "Derived from Google Places opening hours in Branches 24.",
+    "service_prices_and_durations": "Official Bedashing service pages; source URLs and quality flags retained per service variant."
+  },
+  "assumed_inputs": {
+    "operating_days_per_month": 30,
+    "list_productivity_aed_per_hour": 329,
+    "realization_factor": 0.9,
+    "productive_staff_and_utilization": "Scenario assumptions from Capacity Model; not observed branch operations."
+  },
+  "input_provenance": {
+    "opening_hours_per_day": "SOURCED",
+    "service_prices_and_durations": "SOURCED",
+    "list_productivity_aed_per_hour": "DERIVED FROM SOURCED PRICES",
+    "operating_days_per_month": "ASSUMED",
+    "productive_staff": "ASSUMED",
+    "utilization_rate": "ASSUMED",
+    "realization_factor": "ASSUMED"
+  },
+  "scenario_definitions": {
+    "conservative": {
+      "productive_staff": 6,
+      "utilization_rate": 0.5
+    },
+    "base": {
+      "productive_staff": 10,
+      "utilization_rate": 0.65
+    },
+    "high": {
+      "productive_staff": 14,
+      "utilization_rate": 0.8
+    }
+  },
+  "limitations": [
+    "Capacity is not actual revenue, profit, cash flow, or a forecast.",
+    "List-price productivity does not represent transaction mix, discounts, VAT normalization, or actual realized tickets.",
+    "Service availability, staffing, utilization, and operating constraints may vary by branch."
+  ],
+  "missing_internal_data": [
+    "actual branch sales and transactions",
+    "bookings, cancellations, and utilization",
+    "staff headcount, schedules, skills, and productivity",
+    "chairs, rooms, and service capacity constraints",
+    "discounts, packages, service mix, and realized ticket values"
+  ],
+  "why_capacity_estimates_are_excluded_from_PROTECT_HOLD_SHRINK": "They combine public factual inputs with unvalidated operating assumptions. Using them in recommendation scores could misstate branch performance and modify decisions without actual internal data.",
+  "use_in_branch_decision": false
+}

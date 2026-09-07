@@ -1,0 +1,626 @@
+[
+  {
+    "official_store_id": "37",
+    "branch_name": "Al Ain",
+    "google_place_id": "ChIJaVP-IbGtij4REpj8CjkEfdo",
+    "google_rating": 4.7,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 1325,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.377358,
+    "sample_coverage_percent": 37.74,
+    "sentiment_counts": {
+      "POSITIVE": 439,
+      "NEUTRAL": 7,
+      "NEGATIVE": 54
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 87.8,
+      "NEUTRAL": 1.4,
+      "NEGATIVE": 10.8
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "30",
+    "branch_name": "Al Barsha",
+    "google_place_id": "ChIJ692_u5NrXz4RTD99fc17TzU",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 742,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.673854,
+    "sample_coverage_percent": 67.39,
+    "sentiment_counts": {
+      "POSITIVE": 440,
+      "NEUTRAL": 8,
+      "NEGATIVE": 52
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 88.0,
+      "NEUTRAL": 1.6,
+      "NEGATIVE": 10.4
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "46",
+    "branch_name": "Al Dhafra Branch",
+    "google_place_id": "ChIJNxX7ddBnZz4RvodXaYBSH6Q",
+    "google_rating": 4.5,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 358,
+    "analysed_review_count": 358,
+    "sample_coverage": 1.0,
+    "sample_coverage_percent": 100.0,
+    "sentiment_counts": {
+      "POSITIVE": 315,
+      "NEUTRAL": 2,
+      "NEGATIVE": 41
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 87.99,
+      "NEUTRAL": 0.56,
+      "NEGATIVE": 11.45
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "39",
+    "branch_name": "Al Falah",
+    "google_place_id": "ChIJhST-PqhLXj4R4Ns1HCNIcjA",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 948,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.527426,
+    "sample_coverage_percent": 52.74,
+    "sentiment_counts": {
+      "POSITIVE": 453,
+      "NEUTRAL": 10,
+      "NEGATIVE": 37
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 90.6,
+      "NEUTRAL": 2.0,
+      "NEGATIVE": 7.4
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "50",
+    "branch_name": "Al Jada",
+    "google_place_id": "ChIJYcoAMNNfXz4RhygkXYRIdZk",
+    "google_rating": 4.5,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 613,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.815661,
+    "sample_coverage_percent": 81.57,
+    "sentiment_counts": {
+      "POSITIVE": 441,
+      "NEUTRAL": 7,
+      "NEGATIVE": 52
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 88.2,
+      "NEUTRAL": 1.4,
+      "NEGATIVE": 10.4
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "45",
+    "branch_name": "Al Maqta",
+    "google_place_id": "ChIJIcgTO9ZDXj4RbWXJ_yrpjuM",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 1288,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.388199,
+    "sample_coverage_percent": 38.82,
+    "sentiment_counts": {
+      "POSITIVE": 441,
+      "NEUTRAL": 9,
+      "NEGATIVE": 50
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 88.2,
+      "NEUTRAL": 1.8,
+      "NEGATIVE": 10.0
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "51",
+    "branch_name": "Al Taif Mall",
+    "google_place_id": "ChIJ0ePl4Sz59D4RPDea70PHVSs",
+    "google_rating": 4.7,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 495,
+    "analysed_review_count": 495,
+    "sample_coverage": 1.0,
+    "sample_coverage_percent": 100.0,
+    "sentiment_counts": {
+      "POSITIVE": 456,
+      "NEUTRAL": 3,
+      "NEGATIVE": 36
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 92.12,
+      "NEUTRAL": 0.61,
+      "NEGATIVE": 7.27
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "36",
+    "branch_name": "Baniyas",
+    "google_place_id": "ChIJ5ch6Hag3Xj4RlU_4s1p7o8s",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 693,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.721501,
+    "sample_coverage_percent": 72.15,
+    "sentiment_counts": {
+      "POSITIVE": 435,
+      "NEUTRAL": 9,
+      "NEGATIVE": 56
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 87.0,
+      "NEUTRAL": 1.8,
+      "NEGATIVE": 11.2
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "28",
+    "branch_name": "City Walk",
+    "google_place_id": "ChIJgarf82RCXz4Rk5W7_Oh9ZCM",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 855,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.584795,
+    "sample_coverage_percent": 58.48,
+    "sentiment_counts": {
+      "POSITIVE": 436,
+      "NEUTRAL": 11,
+      "NEGATIVE": 53
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 87.2,
+      "NEUTRAL": 2.2,
+      "NEGATIVE": 10.6
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "38",
+    "branch_name": "Delma",
+    "google_place_id": "ChIJ_Vu7UilmXj4R0AsGTzHwkaU",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 671,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.745156,
+    "sample_coverage_percent": 74.52,
+    "sentiment_counts": {
+      "POSITIVE": 451,
+      "NEUTRAL": 9,
+      "NEGATIVE": 40
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 90.2,
+      "NEUTRAL": 1.8,
+      "NEGATIVE": 8.0
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "32",
+    "branch_name": "Jumeirah Park",
+    "google_place_id": "ChIJ-0P7Jf1tXz4Rje7-0YFcM3Q",
+    "google_rating": 4.8,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 440,
+    "analysed_review_count": 440,
+    "sample_coverage": 1.0,
+    "sample_coverage_percent": 100.0,
+    "sentiment_counts": {
+      "POSITIVE": 417,
+      "NEUTRAL": 4,
+      "NEGATIVE": 19
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 94.77,
+      "NEUTRAL": 0.91,
+      "NEGATIVE": 4.32
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "40",
+    "branch_name": "Khaleej Al Arabi",
+    "google_place_id": "ChIJ7Q7KjQNmXj4ROEhXBTwMTWk",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 1737,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.287853,
+    "sample_coverage_percent": 28.79,
+    "sentiment_counts": {
+      "POSITIVE": 442,
+      "NEUTRAL": 5,
+      "NEGATIVE": 53
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 88.4,
+      "NEUTRAL": 1.0,
+      "NEGATIVE": 10.6
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "41",
+    "branch_name": "Khalifa City A",
+    "google_place_id": "ChIJew69Lv1FXj4RjK59U-COz1k",
+    "google_rating": 4.5,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 2453,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.203832,
+    "sample_coverage_percent": 20.38,
+    "sentiment_counts": {
+      "POSITIVE": 436,
+      "NEUTRAL": 8,
+      "NEGATIVE": 56
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 87.2,
+      "NEUTRAL": 1.6,
+      "NEGATIVE": 11.2
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "43",
+    "branch_name": "Ministries Complex",
+    "google_place_id": "ChIJRfTVvZVDXj4RZZRKmMGM9cs",
+    "google_rating": 4.9,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 1214,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.411862,
+    "sample_coverage_percent": 41.19,
+    "sentiment_counts": {
+      "POSITIVE": 485,
+      "NEUTRAL": 2,
+      "NEGATIVE": 13
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 97.0,
+      "NEUTRAL": 0.4,
+      "NEGATIVE": 2.6
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "29",
+    "branch_name": "Mirdif 35",
+    "google_place_id": "ChIJJym1WZlgXz4RDU-v4mRhckE",
+    "google_rating": 4.5,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 817,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.611995,
+    "sample_coverage_percent": 61.2,
+    "sentiment_counts": {
+      "POSITIVE": 413,
+      "NEUTRAL": 9,
+      "NEGATIVE": 78
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 82.6,
+      "NEUTRAL": 1.8,
+      "NEGATIVE": 15.6
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "44",
+    "branch_name": "Mohammed Bin Zayed City",
+    "google_place_id": "ChIJ1acVeH1HXj4RSli59C2hk2k",
+    "google_rating": 4.4,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 831,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.601685,
+    "sample_coverage_percent": 60.17,
+    "sentiment_counts": {
+      "POSITIVE": 400,
+      "NEUTRAL": 13,
+      "NEGATIVE": 87
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 80.0,
+      "NEUTRAL": 2.6,
+      "NEGATIVE": 17.4
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "31",
+    "branch_name": "Nad Al Sheba",
+    "google_place_id": "ChIJR6DuRulnXz4RsewBFpNYmzQ",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 627,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.797448,
+    "sample_coverage_percent": 79.74,
+    "sentiment_counts": {
+      "POSITIVE": 438,
+      "NEUTRAL": 12,
+      "NEGATIVE": 50
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 87.6,
+      "NEUTRAL": 2.4,
+      "NEGATIVE": 10.0
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "52",
+    "branch_name": "Noya Plaza",
+    "google_place_id": "ChIJ8ZtA3AhPXj4R9bv4hORDLjI",
+    "google_rating": 4.7,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 209,
+    "analysed_review_count": 209,
+    "sample_coverage": 1.0,
+    "sample_coverage_percent": 100.0,
+    "sentiment_counts": {
+      "POSITIVE": 193,
+      "NEUTRAL": 0,
+      "NEGATIVE": 16
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 92.34,
+      "NEUTRAL": 0.0,
+      "NEGATIVE": 7.66
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "48",
+    "branch_name": "Ras Al Khaimah",
+    "google_place_id": "ChIJSU1oGll19j4RCktPt_Pr5o0",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 769,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.650195,
+    "sample_coverage_percent": 65.02,
+    "sentiment_counts": {
+      "POSITIVE": 447,
+      "NEUTRAL": 2,
+      "NEGATIVE": 51
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 89.4,
+      "NEUTRAL": 0.4,
+      "NEGATIVE": 10.2
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "35",
+    "branch_name": "Shahama",
+    "google_place_id": "ChIJh9wAonFPXj4R6P2_rlevv90",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 746,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.670241,
+    "sample_coverage_percent": 67.02,
+    "sentiment_counts": {
+      "POSITIVE": 441,
+      "NEUTRAL": 8,
+      "NEGATIVE": 51
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 88.2,
+      "NEUTRAL": 1.6,
+      "NEGATIVE": 10.2
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "42",
+    "branch_name": "Shakhbout City",
+    "google_place_id": "ChIJDbcz2A9tXz4RnqvVPtIP15c",
+    "google_rating": 4.5,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 1267,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.394633,
+    "sample_coverage_percent": 39.46,
+    "sentiment_counts": {
+      "POSITIVE": 422,
+      "NEUTRAL": 13,
+      "NEGATIVE": 65
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 84.4,
+      "NEUTRAL": 2.6,
+      "NEGATIVE": 13.0
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "34",
+    "branch_name": "Westyas Branch",
+    "google_place_id": "ChIJURfcOI9FXj4RQMm5phqBgY8",
+    "google_rating": 4.6,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 727,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.687758,
+    "sample_coverage_percent": 68.78,
+    "sentiment_counts": {
+      "POSITIVE": 451,
+      "NEUTRAL": 6,
+      "NEGATIVE": 43
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 90.2,
+      "NEUTRAL": 1.2,
+      "NEGATIVE": 8.6
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "49",
+    "branch_name": "Zawaya Walk",
+    "google_place_id": "ChIJNY29cDNZXz4RT5H-KSCWfCo",
+    "google_rating": 4.7,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 601,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.831947,
+    "sample_coverage_percent": 83.19,
+    "sentiment_counts": {
+      "POSITIVE": 456,
+      "NEUTRAL": 6,
+      "NEGATIVE": 38
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 91.2,
+      "NEUTRAL": 1.2,
+      "NEGATIVE": 7.6
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  },
+  {
+    "official_store_id": "47",
+    "branch_name": "Zayed International Airport",
+    "google_place_id": "ChIJD4c_XalPXj4RdqRn4Ir54qU",
+    "google_rating": 4.9,
+    "google_rating_definition": "Google average star rating; not a sentiment score.",
+    "total_google_review_count": 534,
+    "analysed_review_count": 500,
+    "sample_coverage": 0.93633,
+    "sample_coverage_percent": 93.63,
+    "sentiment_counts": {
+      "POSITIVE": 490,
+      "NEUTRAL": 0,
+      "NEGATIVE": 10
+    },
+    "sentiment_percentages": {
+      "POSITIVE": 98.0,
+      "NEUTRAL": 0.0,
+      "NEGATIVE": 2.0
+    },
+    "sentiment_confidence": "HIGH",
+    "analysis_scope": "SAMPLE-BASED",
+    "source_mode": "external-reviews",
+    "use_in_branch_decision": false,
+    "sample_warning": "Analysed reviews are a sample and do not represent all Google reviews."
+  }
+]

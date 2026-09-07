@@ -1,0 +1,482 @@
+[
+  {
+    "branch_name": "Al Ain",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Al Barsha",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Al Dhafra Branch",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Al Falah",
+    "base_estimate_aed": 635134.5,
+    "inputs": {
+      "opening_hours_per_day": 11.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3300.0,
+      "productive_staff_hours": 2145.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 635134.5
+    },
+    "explanation": "Base theoretical capacity uses 11 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Al Jada",
+    "base_estimate_aed": 635134.5,
+    "inputs": {
+      "opening_hours_per_day": 11.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3300.0,
+      "productive_staff_hours": 2145.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 635134.5
+    },
+    "explanation": "Base theoretical capacity uses 11 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Al Maqta",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Al Taif Mall",
+    "base_estimate_aed": 519655.5,
+    "inputs": {
+      "opening_hours_per_day": 9.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 2700.0,
+      "productive_staff_hours": 1755.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 519655.5
+    },
+    "explanation": "Base theoretical capacity uses 9 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Baniyas",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "City Walk",
+    "base_estimate_aed": 635134.5,
+    "inputs": {
+      "opening_hours_per_day": 11.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3300.0,
+      "productive_staff_hours": 2145.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 635134.5
+    },
+    "explanation": "Base theoretical capacity uses 11 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Delma",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Jumeirah Park",
+    "base_estimate_aed": 635134.5,
+    "inputs": {
+      "opening_hours_per_day": 11.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3300.0,
+      "productive_staff_hours": 2145.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 635134.5
+    },
+    "explanation": "Base theoretical capacity uses 11 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Khaleej Al Arabi",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Khalifa City A",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Ministries Complex",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Mirdif 35",
+    "base_estimate_aed": 635134.5,
+    "inputs": {
+      "opening_hours_per_day": 11.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3300.0,
+      "productive_staff_hours": 2145.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 635134.5
+    },
+    "explanation": "Base theoretical capacity uses 11 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Mohammed Bin Zayed City",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Nad Al Sheba",
+    "base_estimate_aed": 635134.5,
+    "inputs": {
+      "opening_hours_per_day": 11.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3300.0,
+      "productive_staff_hours": 2145.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 635134.5
+    },
+    "explanation": "Base theoretical capacity uses 11 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Noya Plaza",
+    "base_estimate_aed": 635134.5,
+    "inputs": {
+      "opening_hours_per_day": 11.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3300.0,
+      "productive_staff_hours": 2145.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 635134.5
+    },
+    "explanation": "Base theoretical capacity uses 11 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Ras Al Khaimah",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Shahama",
+    "base_estimate_aed": 692874.0,
+    "inputs": {
+      "opening_hours_per_day": 12.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3600.0,
+      "productive_staff_hours": 2340.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 692874.0
+    },
+    "explanation": "Base theoretical capacity uses 12 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Shakhbout City",
+    "base_estimate_aed": 577395.0,
+    "inputs": {
+      "opening_hours_per_day": 10.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3000.0,
+      "productive_staff_hours": 1950.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 577395.0
+    },
+    "explanation": "Base theoretical capacity uses 10 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Westyas Branch",
+    "base_estimate_aed": 635134.5,
+    "inputs": {
+      "opening_hours_per_day": 11.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 3300.0,
+      "productive_staff_hours": 2145.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 635134.5
+    },
+    "explanation": "Base theoretical capacity uses 11 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Zawaya Walk",
+    "base_estimate_aed": 519655.5,
+    "inputs": {
+      "opening_hours_per_day": 9.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 2700.0,
+      "productive_staff_hours": 1755.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 519655.5
+    },
+    "explanation": "Base theoretical capacity uses 9 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  },
+  {
+    "branch_name": "Zayed International Airport",
+    "base_estimate_aed": 1385748.0,
+    "inputs": {
+      "opening_hours_per_day": 24.0,
+      "operating_days_per_month": 30,
+      "productive_staff": 10,
+      "utilization_rate": 0.65,
+      "list_productivity_aed_per_hour": 329,
+      "realization_factor": 0.9
+    },
+    "calculation": {
+      "available_staff_hours": 7200.0,
+      "productive_staff_hours": 4680.0,
+      "realized_productivity_aed_per_hour": 296.1,
+      "estimated_monthly_capacity_aed": 1385748.0
+    },
+    "explanation": "Base theoretical capacity uses 24 open hours/day, 10 productive staff, 65% utilization, and realized list-price productivity.",
+    "disclaimer": "Scenario-based theoretical capacity, not actual branch revenue."
+  }
+]

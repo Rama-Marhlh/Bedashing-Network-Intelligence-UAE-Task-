@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "skills": {
+    "a2ui-renderer": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/a2ui-renderer/SKILL.md",
+      "computedHash": "a17805bf56fc343af0f0d71c943d6be7d9c90d42b3551cc2f50aa61a27e4a044"
+    },
+    "building-pydantic-ai-agents": {
+      "source": "pydantic/skills",
+      "sourceType": "github",
+      "skillPath": "skills/building-pydantic-ai-agents/SKILL.md",
+      "computedHash": "bb474c7cc6c736d59423b6041ded02725b9e3f147eccc430abe67a14bdee7e5e"
+    },
+    "channels-setup": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/channels-setup/SKILL.md",
+      "computedHash": "8c3d3efd131fbea6d7b5934f8b0bd04ae357694ecd3fd38ccfdd1633f649c227"
+    },
+    "copilotkit-agui": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/copilotkit-agui/SKILL.md",
+      "computedHash": "57a8f89ba1212667813a69505f37249e8d7ed52472249a4d5dda250dbdbd987c"
+    },
+    "copilotkit-channels": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/copilotkit-channels/SKILL.md",
+      "computedHash": "718ffdd8b9bc407dd89dbf2931af53d8127896058c79473af923764941e835ca"
+    },
+    "copilotkit-contribute": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/copilotkit-contribute/SKILL.md",
+      "computedHash": "fd3d1064923a94d116cdda0810631f8123498c10789c9422784ca0c6c41a3a47"
+    },
+    "copilotkit-debug": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/copilotkit-debug/SKILL.md",
+      "computedHash": "564d1bdc76a6085b8253a7631e73fa334fb9abe79d5e8cf8a3a79758503f4d2e"
+    },
+    "copilotkit-develop": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/copilotkit-develop/SKILL.md",
+      "computedHash": "76563035174592e0e30ce35039ab234aced29537e3733b789043e3fcc36a8c67"
+    },
+    "copilotkit-integrations": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/copilotkit-integrations/SKILL.md",
+      "computedHash": "64250c901d1b54acab8922657ed8ddd9170545de74d9463a7e747bd643e4371d"
+    },
+    "copilotkit-self-update": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/copilotkit-self-update/SKILL.md",
+      "computedHash": "22d09f38a1b83fdb6ee30629f5921f749072bcd63e885b23c19fcd723e6ea452"
+    },
+    "copilotkit-setup": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/copilotkit-setup/SKILL.md",
+      "computedHash": "18a6abf391a70f1880117aead8da374bb3c30c9021cd80227ed23058dac023e1"
+    },
+    "copilotkit-upgrade": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/copilotkit-upgrade/SKILL.md",
+      "computedHash": "40e9c08f558e373f3632ae308112c625c344091134c2a30d361f8d88eddcf3f1"
+    },
+    "inspector-docs": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/inspector-docs/SKILL.md",
+      "computedHash": "a909b4f8b04a4356f2e019e7440e693b9964828773a1a52b2cf42a66d4feeb02"
+    },
+    "inspector-workbench": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/inspector-workbench/SKILL.md",
+      "computedHash": "6b7de60855b52bd9e20a435204171021b80e7bf1832b1b981b84f2a6f8a3e36c"
+    },
+    "logfire-evals": {
+      "source": "pydantic/skills",
+      "sourceType": "github",
+      "skillPath": "skills/logfire-evals/SKILL.md",
+      "computedHash": "3baef7e08e03f8e34adb5f2a35d6ef0d6ce73bf583fea72db5d33f28b75c5da1"
+    },
+    "logfire-infrastructure": {
+      "source": "pydantic/skills",
+      "sourceType": "github",
+      "skillPath": "skills/logfire-infrastructure/SKILL.md",
+      "computedHash": "da2dbb0989f71ac2a56b245aa25245cbe414b611cef93b0d71d3512621c7cfb5"
+    },
+    "logfire-instrumentation": {
+      "source": "pydantic/skills",
+      "sourceType": "github",
+      "skillPath": "skills/logfire-instrumentation/SKILL.md",
+      "computedHash": "e8a7f4cfd419353f105466ca8f6114d28f8389d3da99fcba451e68bf8b36fe2a"
+    },
+    "logfire-query": {
+      "source": "pydantic/skills",
+      "sourceType": "github",
+      "skillPath": "skills/logfire-query/SKILL.md",
+      "computedHash": "fbfc52f32f0b6951cdb36f87e876d9c5bf318e2a528d3ce7d6c77d04f4ef85e3"
+    },
+    "logfire-setup": {
+      "source": "pydantic/skills",
+      "sourceType": "github",
+      "skillPath": "skills/logfire-setup/SKILL.md",
+      "computedHash": "37f2304f81419714199df28411a0a2be42af8be5ea40c691bbd0595b155e068e"
+    },
+    "logfire-ui": {
+      "source": "pydantic/skills",
+      "sourceType": "github",
+      "skillPath": "skills/logfire-ui/SKILL.md",
+      "computedHash": "3499e1345a1e1cbc9d86a82b3d2fa62bb9a16d9d5430b819269ac9394d698836"
+    },
+    "pydantic": {
+      "source": "pydantic/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pydantic/SKILL.md",
+      "computedHash": "8cd70778fa5511c1cb362f3162035e2c7df00349f13b96b31dd06a625d5774a7"
+    },
+    "pydantic-ai-harness": {
+      "source": "pydantic/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pydantic-ai-harness/SKILL.md",
+      "computedHash": "0307cd541bf213b36f92ebb1abe74c1a57edcfc50909bbd9bf4f0b3bb03b190c"
+    },
+    "react-core": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/react-core/SKILL.md",
+      "computedHash": "9acaf3e22bbd03f96b092cfcb6a7b7d07141b1b75696a4a92a58d474937ad176"
+    },
+    "runtime": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/runtime/SKILL.md",
+      "computedHash": "bea5c18c83d633e8bca87484543c30fdd8b06998159150ffbefc17432b5914a4"
+    },
+    "setup-slack-channel": {
+      "source": "CopilotKit/CopilotKit",
+      "sourceType": "github",
+      "skillPath": "skills/setup-slack-channel/SKILL.md",
+      "computedHash": "aad78faffeaa2814128b6d6efdc6db3427a740382702b75dfa5c8dfbe3b71e64"
+    }
+  }
+}

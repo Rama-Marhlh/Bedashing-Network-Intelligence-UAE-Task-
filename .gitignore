@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+.next/
+coverage/
+dist/
+apps/web/public/app_data/
+!.env.example
+.agents/
+.claude/
+.tmp-chrome-audit/
+artifacts/final-audit-edge/

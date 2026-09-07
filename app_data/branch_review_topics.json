@@ -1,0 +1,2018 @@
+[
+  {
+    "branch_name": "Al Ain",
+    "google_place_id": "ChIJaVP-IbGtij4REpj8CjkEfdo",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 82,
+        "positive_mentions": 70,
+        "negative_mentions": 12,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 180,
+        "positive_mentions": 151,
+        "negative_mentions": 26,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 20,
+        "positive_mentions": 8,
+        "negative_mentions": 12,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 29,
+        "positive_mentions": 23,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 6,
+        "positive_mentions": 1,
+        "negative_mentions": 4,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 30,
+        "positive_mentions": 13,
+        "negative_mentions": 16,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 25,
+        "positive_mentions": 19,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 115,
+        "positive_mentions": 95,
+        "negative_mentions": 18,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 91,
+        "positive_mentions": 79,
+        "negative_mentions": 12,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 60,
+        "positive_mentions": 54,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 18,
+        "positive_mentions": 15,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Al Barsha",
+    "google_place_id": "ChIJ692_u5NrXz4RTD99fc17TzU",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 96,
+        "positive_mentions": 81,
+        "negative_mentions": 14,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 224,
+        "positive_mentions": 191,
+        "negative_mentions": 32,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 13,
+        "positive_mentions": 4,
+        "negative_mentions": 9,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 32,
+        "positive_mentions": 27,
+        "negative_mentions": 5,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 17,
+        "positive_mentions": 4,
+        "negative_mentions": 13,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 21,
+        "positive_mentions": 12,
+        "negative_mentions": 9,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 21,
+        "positive_mentions": 18,
+        "negative_mentions": 2,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 96,
+        "positive_mentions": 79,
+        "negative_mentions": 17,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 113,
+        "positive_mentions": 101,
+        "negative_mentions": 12,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 27,
+        "positive_mentions": 22,
+        "negative_mentions": 4,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 28,
+        "positive_mentions": 26,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Al Dhafra Branch",
+    "google_place_id": "ChIJNxX7ddBnZz4RvodXaYBSH6Q",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 64,
+        "positive_mentions": 49,
+        "negative_mentions": 14,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 133,
+        "positive_mentions": 110,
+        "negative_mentions": 23,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 21,
+        "positive_mentions": 5,
+        "negative_mentions": 16,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 23,
+        "positive_mentions": 23,
+        "negative_mentions": 0,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 5,
+        "positive_mentions": 2,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 34,
+        "positive_mentions": 7,
+        "negative_mentions": 26,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 27,
+        "positive_mentions": 25,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 54,
+        "positive_mentions": 48,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 72,
+        "positive_mentions": 63,
+        "negative_mentions": 9,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 28,
+        "positive_mentions": 26,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 44,
+        "positive_mentions": 42,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Al Falah",
+    "google_place_id": "ChIJhST-PqhLXj4R4Ns1HCNIcjA",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 43,
+        "positive_mentions": 36,
+        "negative_mentions": 7,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 135,
+        "positive_mentions": 121,
+        "negative_mentions": 12,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 3,
+        "positive_mentions": 2,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 23,
+        "positive_mentions": 19,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 15,
+        "positive_mentions": 6,
+        "negative_mentions": 7,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 13,
+        "positive_mentions": 7,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 22,
+        "positive_mentions": 20,
+        "negative_mentions": 1,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 118,
+        "positive_mentions": 110,
+        "negative_mentions": 8,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 57,
+        "positive_mentions": 50,
+        "negative_mentions": 7,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 79,
+        "positive_mentions": 77,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 13,
+        "positive_mentions": 12,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Al Jada",
+    "google_place_id": "ChIJYcoAMNNfXz4RhygkXYRIdZk",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 70,
+        "positive_mentions": 49,
+        "negative_mentions": 19,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 178,
+        "positive_mentions": 146,
+        "negative_mentions": 31,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 7,
+        "positive_mentions": 3,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 26,
+        "positive_mentions": 22,
+        "negative_mentions": 3,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 13,
+        "positive_mentions": 3,
+        "negative_mentions": 10,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 19,
+        "positive_mentions": 8,
+        "negative_mentions": 11,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 30,
+        "positive_mentions": 26,
+        "negative_mentions": 3,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 98,
+        "positive_mentions": 76,
+        "negative_mentions": 21,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 103,
+        "positive_mentions": 82,
+        "negative_mentions": 20,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 26,
+        "positive_mentions": 22,
+        "negative_mentions": 3,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 47,
+        "positive_mentions": 41,
+        "negative_mentions": 5,
+        "neutral_mentions": 1
+      }
+    ]
+  },
+  {
+    "branch_name": "Al Maqta",
+    "google_place_id": "ChIJIcgTO9ZDXj4RbWXJ_yrpjuM",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 83,
+        "positive_mentions": 56,
+        "negative_mentions": 24,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 232,
+        "positive_mentions": 195,
+        "negative_mentions": 32,
+        "neutral_mentions": 5
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 19,
+        "positive_mentions": 5,
+        "negative_mentions": 13,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 33,
+        "positive_mentions": 30,
+        "negative_mentions": 2,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 9,
+        "positive_mentions": 1,
+        "negative_mentions": 5,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 39,
+        "positive_mentions": 11,
+        "negative_mentions": 26,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 30,
+        "positive_mentions": 26,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 75,
+        "positive_mentions": 60,
+        "negative_mentions": 14,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 109,
+        "positive_mentions": 96,
+        "negative_mentions": 12,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 66,
+        "positive_mentions": 62,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 54,
+        "positive_mentions": 48,
+        "negative_mentions": 5,
+        "neutral_mentions": 1
+      }
+    ]
+  },
+  {
+    "branch_name": "Al Taif Mall",
+    "google_place_id": "ChIJ0ePl4Sz59D4RPDea70PHVSs",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 89,
+        "positive_mentions": 80,
+        "negative_mentions": 9,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 148,
+        "positive_mentions": 133,
+        "negative_mentions": 15,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 11,
+        "positive_mentions": 4,
+        "negative_mentions": 7,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 22,
+        "positive_mentions": 20,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 9,
+        "positive_mentions": 1,
+        "negative_mentions": 8,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 15,
+        "positive_mentions": 4,
+        "negative_mentions": 10,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 36,
+        "positive_mentions": 33,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 124,
+        "positive_mentions": 113,
+        "negative_mentions": 10,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 58,
+        "positive_mentions": 52,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 34,
+        "positive_mentions": 31,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 18,
+        "positive_mentions": 17,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Baniyas",
+    "google_place_id": "ChIJ5ch6Hag3Xj4RlU_4s1p7o8s",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 63,
+        "positive_mentions": 45,
+        "negative_mentions": 16,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 148,
+        "positive_mentions": 120,
+        "negative_mentions": 26,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 6,
+        "positive_mentions": 2,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 32,
+        "positive_mentions": 26,
+        "negative_mentions": 4,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 10,
+        "positive_mentions": 0,
+        "negative_mentions": 8,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 15,
+        "positive_mentions": 6,
+        "negative_mentions": 9,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 11,
+        "positive_mentions": 7,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 73,
+        "positive_mentions": 64,
+        "negative_mentions": 8,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 113,
+        "positive_mentions": 98,
+        "negative_mentions": 14,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 25,
+        "positive_mentions": 19,
+        "negative_mentions": 3,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 9,
+        "positive_mentions": 2,
+        "negative_mentions": 5,
+        "neutral_mentions": 2
+      }
+    ]
+  },
+  {
+    "branch_name": "City Walk",
+    "google_place_id": "ChIJgarf82RCXz4Rk5W7_Oh9ZCM",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 90,
+        "positive_mentions": 75,
+        "negative_mentions": 11,
+        "neutral_mentions": 4
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 200,
+        "positive_mentions": 160,
+        "negative_mentions": 36,
+        "neutral_mentions": 4
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 16,
+        "positive_mentions": 4,
+        "negative_mentions": 11,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 22,
+        "positive_mentions": 17,
+        "negative_mentions": 5,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 20,
+        "positive_mentions": 3,
+        "negative_mentions": 15,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 24,
+        "positive_mentions": 11,
+        "negative_mentions": 13,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 22,
+        "positive_mentions": 16,
+        "negative_mentions": 5,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 96,
+        "positive_mentions": 83,
+        "negative_mentions": 13,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 105,
+        "positive_mentions": 83,
+        "negative_mentions": 19,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 26,
+        "positive_mentions": 22,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 18,
+        "positive_mentions": 15,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Delma",
+    "google_place_id": "ChIJ_Vu7UilmXj4R0AsGTzHwkaU",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 106,
+        "positive_mentions": 92,
+        "negative_mentions": 12,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 206,
+        "positive_mentions": 181,
+        "negative_mentions": 22,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 14,
+        "positive_mentions": 6,
+        "negative_mentions": 8,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 41,
+        "positive_mentions": 36,
+        "negative_mentions": 5,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 18,
+        "positive_mentions": 9,
+        "negative_mentions": 7,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 17,
+        "positive_mentions": 9,
+        "negative_mentions": 8,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 21,
+        "positive_mentions": 19,
+        "negative_mentions": 0,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 50,
+        "positive_mentions": 38,
+        "negative_mentions": 10,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 92,
+        "positive_mentions": 80,
+        "negative_mentions": 11,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 27,
+        "positive_mentions": 25,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 25,
+        "positive_mentions": 21,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Jumeirah Park",
+    "google_place_id": "ChIJ-0P7Jf1tXz4Rje7-0YFcM3Q",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 91,
+        "positive_mentions": 85,
+        "negative_mentions": 5,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 216,
+        "positive_mentions": 201,
+        "negative_mentions": 14,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 7,
+        "positive_mentions": 6,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 20,
+        "positive_mentions": 19,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 12,
+        "positive_mentions": 6,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 14,
+        "positive_mentions": 13,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 20,
+        "positive_mentions": 20,
+        "negative_mentions": 0,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 79,
+        "positive_mentions": 74,
+        "negative_mentions": 3,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 127,
+        "positive_mentions": 121,
+        "negative_mentions": 5,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 20,
+        "positive_mentions": 19,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 46,
+        "positive_mentions": 43,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Khaleej Al Arabi",
+    "google_place_id": "ChIJ7Q7KjQNmXj4ROEhXBTwMTWk",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 97,
+        "positive_mentions": 72,
+        "negative_mentions": 23,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 207,
+        "positive_mentions": 167,
+        "negative_mentions": 38,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 24,
+        "positive_mentions": 7,
+        "negative_mentions": 16,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 24,
+        "positive_mentions": 19,
+        "negative_mentions": 4,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 15,
+        "positive_mentions": 4,
+        "negative_mentions": 9,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 29,
+        "positive_mentions": 9,
+        "negative_mentions": 20,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 19,
+        "positive_mentions": 17,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 90,
+        "positive_mentions": 74,
+        "negative_mentions": 15,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 98,
+        "positive_mentions": 87,
+        "negative_mentions": 10,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 34,
+        "positive_mentions": 27,
+        "negative_mentions": 6,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 30,
+        "positive_mentions": 23,
+        "negative_mentions": 7,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Khalifa City A",
+    "google_place_id": "ChIJew69Lv1FXj4RjK59U-COz1k",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 78,
+        "positive_mentions": 62,
+        "negative_mentions": 15,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 201,
+        "positive_mentions": 167,
+        "negative_mentions": 33,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 21,
+        "positive_mentions": 4,
+        "negative_mentions": 17,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 27,
+        "positive_mentions": 21,
+        "negative_mentions": 5,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 6,
+        "positive_mentions": 2,
+        "negative_mentions": 3,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 39,
+        "positive_mentions": 14,
+        "negative_mentions": 25,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 30,
+        "positive_mentions": 25,
+        "negative_mentions": 5,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 150,
+        "positive_mentions": 130,
+        "negative_mentions": 18,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 101,
+        "positive_mentions": 87,
+        "negative_mentions": 13,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 33,
+        "positive_mentions": 27,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 18,
+        "positive_mentions": 17,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Ministries Complex",
+    "google_place_id": "ChIJRfTVvZVDXj4RZZRKmMGM9cs",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 74,
+        "positive_mentions": 71,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 231,
+        "positive_mentions": 224,
+        "negative_mentions": 6,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 5,
+        "positive_mentions": 4,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 31,
+        "positive_mentions": 31,
+        "negative_mentions": 0,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 8,
+        "positive_mentions": 5,
+        "negative_mentions": 2,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 13,
+        "positive_mentions": 11,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 21,
+        "positive_mentions": 20,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 108,
+        "positive_mentions": 101,
+        "negative_mentions": 7,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 131,
+        "positive_mentions": 127,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 31,
+        "positive_mentions": 30,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 42,
+        "positive_mentions": 41,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Mirdif 35",
+    "google_place_id": "ChIJJym1WZlgXz4RDU-v4mRhckE",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 81,
+        "positive_mentions": 59,
+        "negative_mentions": 21,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 189,
+        "positive_mentions": 134,
+        "negative_mentions": 51,
+        "neutral_mentions": 4
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 28,
+        "positive_mentions": 6,
+        "negative_mentions": 21,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 28,
+        "positive_mentions": 19,
+        "negative_mentions": 9,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 29,
+        "positive_mentions": 4,
+        "negative_mentions": 25,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 29,
+        "positive_mentions": 10,
+        "negative_mentions": 18,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 10,
+        "positive_mentions": 9,
+        "negative_mentions": 0,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 56,
+        "positive_mentions": 30,
+        "negative_mentions": 26,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 120,
+        "positive_mentions": 90,
+        "negative_mentions": 28,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 17,
+        "positive_mentions": 12,
+        "negative_mentions": 5,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 20,
+        "positive_mentions": 14,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Mohammed Bin Zayed City",
+    "google_place_id": "ChIJ1acVeH1HXj4RSli59C2hk2k",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 72,
+        "positive_mentions": 45,
+        "negative_mentions": 26,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 165,
+        "positive_mentions": 124,
+        "negative_mentions": 40,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 17,
+        "positive_mentions": 7,
+        "negative_mentions": 9,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 26,
+        "positive_mentions": 13,
+        "negative_mentions": 13,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 16,
+        "positive_mentions": 7,
+        "negative_mentions": 8,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 28,
+        "positive_mentions": 11,
+        "negative_mentions": 16,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 20,
+        "positive_mentions": 12,
+        "negative_mentions": 8,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 128,
+        "positive_mentions": 104,
+        "negative_mentions": 23,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 69,
+        "positive_mentions": 54,
+        "negative_mentions": 13,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 41,
+        "positive_mentions": 33,
+        "negative_mentions": 8,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 16,
+        "positive_mentions": 14,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Nad Al Sheba",
+    "google_place_id": "ChIJR6DuRulnXz4RsewBFpNYmzQ",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 89,
+        "positive_mentions": 68,
+        "negative_mentions": 17,
+        "neutral_mentions": 4
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 206,
+        "positive_mentions": 169,
+        "negative_mentions": 34,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 16,
+        "positive_mentions": 7,
+        "negative_mentions": 9,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 27,
+        "positive_mentions": 17,
+        "negative_mentions": 8,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 19,
+        "positive_mentions": 5,
+        "negative_mentions": 13,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 27,
+        "positive_mentions": 10,
+        "negative_mentions": 16,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 27,
+        "positive_mentions": 22,
+        "negative_mentions": 5,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 150,
+        "positive_mentions": 133,
+        "negative_mentions": 14,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 81,
+        "positive_mentions": 65,
+        "negative_mentions": 13,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 16,
+        "positive_mentions": 13,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 25,
+        "positive_mentions": 18,
+        "negative_mentions": 7,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Noya Plaza",
+    "google_place_id": "ChIJ8ZtA3AhPXj4R9bv4hORDLjI",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 33,
+        "positive_mentions": 30,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 109,
+        "positive_mentions": 96,
+        "negative_mentions": 13,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 8,
+        "positive_mentions": 6,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 13,
+        "positive_mentions": 11,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 6,
+        "positive_mentions": 1,
+        "negative_mentions": 5,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 14,
+        "positive_mentions": 10,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 15,
+        "positive_mentions": 15,
+        "negative_mentions": 0,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 55,
+        "positive_mentions": 48,
+        "negative_mentions": 7,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 64,
+        "positive_mentions": 56,
+        "negative_mentions": 8,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 21,
+        "positive_mentions": 21,
+        "negative_mentions": 0,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 36,
+        "positive_mentions": 33,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Ras Al Khaimah",
+    "google_place_id": "ChIJSU1oGll19j4RCktPt_Pr5o0",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 71,
+        "positive_mentions": 58,
+        "negative_mentions": 13,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 183,
+        "positive_mentions": 153,
+        "negative_mentions": 29,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 9,
+        "positive_mentions": 3,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 34,
+        "positive_mentions": 29,
+        "negative_mentions": 5,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 14,
+        "positive_mentions": 3,
+        "negative_mentions": 10,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 16,
+        "positive_mentions": 8,
+        "negative_mentions": 8,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 23,
+        "positive_mentions": 22,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 165,
+        "positive_mentions": 152,
+        "negative_mentions": 13,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 74,
+        "positive_mentions": 60,
+        "negative_mentions": 14,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 25,
+        "positive_mentions": 17,
+        "negative_mentions": 8,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 12,
+        "positive_mentions": 8,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Shahama",
+    "google_place_id": "ChIJh9wAonFPXj4R6P2_rlevv90",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 71,
+        "positive_mentions": 57,
+        "negative_mentions": 12,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 162,
+        "positive_mentions": 134,
+        "negative_mentions": 25,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 14,
+        "positive_mentions": 4,
+        "negative_mentions": 10,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 17,
+        "positive_mentions": 14,
+        "negative_mentions": 2,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 17,
+        "positive_mentions": 6,
+        "negative_mentions": 11,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 12,
+        "positive_mentions": 4,
+        "negative_mentions": 7,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 16,
+        "positive_mentions": 12,
+        "negative_mentions": 3,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 117,
+        "positive_mentions": 105,
+        "negative_mentions": 11,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 64,
+        "positive_mentions": 47,
+        "negative_mentions": 14,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 50,
+        "positive_mentions": 46,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 13,
+        "positive_mentions": 11,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Shakhbout City",
+    "google_place_id": "ChIJDbcz2A9tXz4RnqvVPtIP15c",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 63,
+        "positive_mentions": 50,
+        "negative_mentions": 13,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 164,
+        "positive_mentions": 134,
+        "negative_mentions": 29,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 17,
+        "positive_mentions": 1,
+        "negative_mentions": 15,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 32,
+        "positive_mentions": 26,
+        "negative_mentions": 6,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 16,
+        "positive_mentions": 2,
+        "negative_mentions": 14,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 29,
+        "positive_mentions": 11,
+        "negative_mentions": 18,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 22,
+        "positive_mentions": 19,
+        "negative_mentions": 2,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 71,
+        "positive_mentions": 53,
+        "negative_mentions": 17,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 96,
+        "positive_mentions": 85,
+        "negative_mentions": 10,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 20,
+        "positive_mentions": 16,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 9,
+        "positive_mentions": 8,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Westyas Branch",
+    "google_place_id": "ChIJURfcOI9FXj4RQMm5phqBgY8",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 83,
+        "positive_mentions": 66,
+        "negative_mentions": 15,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 204,
+        "positive_mentions": 181,
+        "negative_mentions": 21,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 7,
+        "positive_mentions": 3,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 26,
+        "positive_mentions": 23,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 11,
+        "positive_mentions": 6,
+        "negative_mentions": 4,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 29,
+        "positive_mentions": 16,
+        "negative_mentions": 13,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 15,
+        "positive_mentions": 14,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 66,
+        "positive_mentions": 58,
+        "negative_mentions": 7,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 117,
+        "positive_mentions": 105,
+        "negative_mentions": 11,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 40,
+        "positive_mentions": 37,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 29,
+        "positive_mentions": 27,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Zawaya Walk",
+    "google_place_id": "ChIJNY29cDNZXz4RT5H-KSCWfCo",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 92,
+        "positive_mentions": 85,
+        "negative_mentions": 5,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 182,
+        "positive_mentions": 159,
+        "negative_mentions": 20,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 9,
+        "positive_mentions": 3,
+        "negative_mentions": 4,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 23,
+        "positive_mentions": 19,
+        "negative_mentions": 3,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 23,
+        "positive_mentions": 11,
+        "negative_mentions": 11,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 17,
+        "positive_mentions": 7,
+        "negative_mentions": 9,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 24,
+        "positive_mentions": 18,
+        "negative_mentions": 5,
+        "neutral_mentions": 1
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 101,
+        "positive_mentions": 82,
+        "negative_mentions": 16,
+        "neutral_mentions": 3
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 92,
+        "positive_mentions": 81,
+        "negative_mentions": 9,
+        "neutral_mentions": 2
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 23,
+        "positive_mentions": 20,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 19,
+        "positive_mentions": 18,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      }
+    ]
+  },
+  {
+    "branch_name": "Zayed International Airport",
+    "google_place_id": "ChIJD4c_XalPXj4RdqRn4Ir54qU",
+    "analysis_scope": "SAMPLE-BASED",
+    "topics": [
+      {
+        "topic": "staff",
+        "total_mentions": 65,
+        "positive_mentions": 63,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "service_quality",
+        "total_mentions": 249,
+        "positive_mentions": 246,
+        "negative_mentions": 3,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "waiting_time",
+        "total_mentions": 23,
+        "positive_mentions": 21,
+        "negative_mentions": 2,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "cleanliness",
+        "total_mentions": 14,
+        "positive_mentions": 13,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "price_value",
+        "total_mentions": 13,
+        "positive_mentions": 13,
+        "negative_mentions": 0,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "booking_experience",
+        "total_mentions": 4,
+        "positive_mentions": 4,
+        "negative_mentions": 0,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "atmosphere",
+        "total_mentions": 26,
+        "positive_mentions": 26,
+        "negative_mentions": 0,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "hair",
+        "total_mentions": 47,
+        "positive_mentions": 46,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "nails",
+        "total_mentions": 178,
+        "positive_mentions": 174,
+        "negative_mentions": 4,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "face_makeup",
+        "total_mentions": 8,
+        "positive_mentions": 7,
+        "negative_mentions": 1,
+        "neutral_mentions": 0
+      },
+      {
+        "topic": "massage_body",
+        "total_mentions": 53,
+        "positive_mentions": 53,
+        "negative_mentions": 0,
+        "neutral_mentions": 0
+      }
+    ]
+  }
+]

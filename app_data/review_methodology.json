@@ -1,0 +1,30 @@
+{
+  "analysis_scope": "SAMPLE-BASED",
+  "source_mode": "external-reviews",
+  "analysis_method": "Deterministic rating sentiment and bilingual keyword topic classification",
+  "model_used": "RULE_BASED_NO_API_V1",
+  "api_required": false,
+  "sentiment_method": "Google review ratings are mapped deterministically: 4–5 POSITIVE, 3 NEUTRAL, and 1–2 NEGATIVE. Google branch rating remains a separate star-rating measure.",
+  "language_method": "Unicode-script detection for Arabic and English; otherwise UNKNOWN.",
+  "topic_method": "Deterministic Arabic and English keyword matching; a review may mention multiple topics.",
+  "deduplication": "Duplicate review IDs are removed, retaining the first occurrence.",
+  "coverage_formula": "analysed_review_count / total_google_review_count",
+  "confidence_thresholds": {
+    "LOW": "fewer than 10 analysed reviews",
+    "LIMITED": "10–49 analysed reviews",
+    "MEDIUM": "50–199 analysed reviews",
+    "HIGH": "200 or more analysed reviews"
+  },
+  "limitations": [
+    "The analysed reviews are a sample and do not represent all Google reviews.",
+    "Existing Google Places data contains at most five sampled reviews per branch.",
+    "Rating-based sentiment may not capture mixed or nuanced language.",
+    "Keyword topics may miss synonyms, context, sarcasm, and spelling variants.",
+    "External exports may have different sampling or ordering behavior."
+  ],
+  "business_rules": {
+    "changes_branch_decisions": false,
+    "used_in_recommendation_score": false,
+    "google_rating_is_sentiment_score": false
+  }
+}

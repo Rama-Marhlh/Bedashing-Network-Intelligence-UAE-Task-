@@ -1,0 +1,73 @@
+﻿branch_id,branch_name,travel_mode,travel_direction,travel_minutes,range_seconds,area_km2,origin_latitude,origin_longitude,coordinate_source,data_source,generated_at
+37,Al Ain,driving-car,destination,5,300,19.27473673,24.2266835,55.6599794,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:55:46+00:00
+37,Al Ain,driving-car,destination,10,600,109.13842437,24.2266835,55.6599794,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:55:46+00:00
+37,Al Ain,driving-car,destination,15,900,263.05322104,24.2266835,55.6599794,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:55:46+00:00
+30,Al Barsha,driving-car,destination,5,300,15.423799599999999,25.1131451,55.2156092,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:17+00:00
+30,Al Barsha,driving-car,destination,10,600,93.6999434,25.1131451,55.2156092,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:17+00:00
+30,Al Barsha,driving-car,destination,15,900,234.81317353999998,25.1131451,55.2156092,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:17+00:00
+46,Al Dhafra Branch,driving-car,destination,5,300,21.401778999999998,23.6280524,53.7141144,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:18+00:00
+46,Al Dhafra Branch,driving-car,destination,10,600,70.24774995,23.6280524,53.7141144,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:18+00:00
+46,Al Dhafra Branch,driving-car,destination,15,900,146.60198591,23.6280524,53.7141144,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:18+00:00
+39,Al Falah,driving-car,destination,5,300,8.67999115,24.4428939,54.7396974,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:18+00:00
+39,Al Falah,driving-car,destination,10,600,35.02413888,24.4428939,54.7396974,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:18+00:00
+39,Al Falah,driving-car,destination,15,900,108.57577663,24.4428939,54.7396974,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:18+00:00
+50,Al Jada,driving-car,destination,5,300,7.3752875499999995,25.3192096,55.4799114,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:19+00:00
+50,Al Jada,driving-car,destination,10,600,66.27129183,25.3192096,55.4799114,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:19+00:00
+50,Al Jada,driving-car,destination,15,900,218.87956505,25.3192096,55.4799114,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:19+00:00
+45,Al Maqta,driving-car,destination,5,300,13.35238015,24.4130516,54.4929556,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:19+00:00
+45,Al Maqta,driving-car,destination,10,600,67.33925362000001,24.4130516,54.4929556,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:19+00:00
+45,Al Maqta,driving-car,destination,15,900,223.86585057,24.4130516,54.4929556,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:19+00:00
+51,Al Taif Mall,driving-car,destination,5,300,14.86961963,25.1202606,56.3253503,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:20+00:00
+51,Al Taif Mall,driving-car,destination,10,600,60.06488236999999,25.1202606,56.3253503,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:20+00:00
+51,Al Taif Mall,driving-car,destination,15,900,140.29111281,25.1202606,56.3253503,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:20+00:00
+36,Baniyas,driving-car,destination,5,300,11.869371849999999,24.2973631,54.6332474,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:21+00:00
+36,Baniyas,driving-car,destination,10,600,102.74198076,24.2973631,54.6332474,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:21+00:00
+36,Baniyas,driving-car,destination,15,900,341.23141101,24.2973631,54.6332474,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:21+00:00
+28,City Walk,driving-car,destination,5,300,8.17870916,25.2019849,55.2638147,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:21+00:00
+28,City Walk,driving-car,destination,10,600,63.65387618999999,25.2019849,55.2638147,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:21+00:00
+28,City Walk,driving-car,destination,15,900,153.19728991,25.2019849,55.2638147,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:21+00:00
+38,Delma,driving-car,destination,5,300,28.934935649999996,24.467954,54.3847796,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:22+00:00
+38,Delma,driving-car,destination,10,600,92.95931938,24.467954,54.3847796,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:22+00:00
+38,Delma,driving-car,destination,15,900,172.63348796,24.467954,54.3847796,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:22+00:00
+32,Jumeirah Park,driving-car,destination,5,300,10.00761644,25.039154000000003,55.1659736,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:22+00:00
+32,Jumeirah Park,driving-car,destination,10,600,56.49452431,25.039154000000003,55.1659736,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:22+00:00
+32,Jumeirah Park,driving-car,destination,15,900,188.11119947999998,25.039154000000003,55.1659736,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:22+00:00
+40,Khaleej Al Arabi,driving-car,destination,5,300,29.5329272,24.458870200000003,54.3537762,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:23+00:00
+40,Khaleej Al Arabi,driving-car,destination,10,600,82.05850784999998,24.458870200000003,54.3537762,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:23+00:00
+40,Khaleej Al Arabi,driving-car,destination,15,900,163.27979743,24.458870200000003,54.3537762,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:23+00:00
+41,Khalifa City A,driving-car,destination,5,300,9.212046099999998,24.4399805,54.5989056,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:24+00:00
+41,Khalifa City A,driving-car,destination,10,600,56.67265853,24.4399805,54.5989056,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:24+00:00
+41,Khalifa City A,driving-car,destination,15,900,204.53239456,24.4399805,54.5989056,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:24+00:00
+43,Ministries Complex,driving-car,destination,5,300,8.36229125,24.432147,54.4647516,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:24+00:00
+43,Ministries Complex,driving-car,destination,10,600,70.99122062,24.432147,54.4647516,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:24+00:00
+43,Ministries Complex,driving-car,destination,15,900,211.46631478,24.432147,54.4647516,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:24+00:00
+29,Mirdif 35,driving-car,destination,5,300,8.44695998,25.2322986,55.4329599,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:25+00:00
+29,Mirdif 35,driving-car,destination,10,600,81.66593131,25.2322986,55.4329599,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:25+00:00
+29,Mirdif 35,driving-car,destination,15,900,276.93917669999996,25.2322986,55.4329599,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:25+00:00
+44,Mohammed Bin Zayed City,driving-car,destination,5,300,16.34067117,24.3667831,54.5403404,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:26+00:00
+44,Mohammed Bin Zayed City,driving-car,destination,10,600,84.71587577,24.3667831,54.5403404,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:26+00:00
+44,Mohammed Bin Zayed City,driving-car,destination,15,900,223.54267222999997,24.3667831,54.5403404,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:26+00:00
+31,Nad Al Sheba,driving-car,destination,5,300,14.18483664,25.1595625,55.3696875,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:26+00:00
+31,Nad Al Sheba,driving-car,destination,10,600,70.1744482,25.1595625,55.3696875,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:26+00:00
+31,Nad Al Sheba,driving-car,destination,15,900,251.09067212,25.1595625,55.3696875,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:26+00:00
+52,Noya Plaza,driving-car,destination,5,300,4.2676158200000005,24.4995625,54.6254375,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:28+00:00
+52,Noya Plaza,driving-car,destination,10,600,27.75105767,24.4995625,54.6254375,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:28+00:00
+52,Noya Plaza,driving-car,destination,15,900,102.64557548,24.4995625,54.6254375,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:28+00:00
+48,Ras Al Khaimah,driving-car,destination,5,300,17.010841149999997,25.751541,55.9198717,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:29+00:00
+48,Ras Al Khaimah,driving-car,destination,10,600,82.47419718,25.751541,55.9198717,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:29+00:00
+48,Ras Al Khaimah,driving-car,destination,15,900,212.96378615,25.751541,55.9198717,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:29+00:00
+35,Shahama,driving-car,destination,5,300,12.03887367,24.5243742,54.6718965,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:31+00:00
+35,Shahama,driving-car,destination,10,600,61.95755114999999,24.5243742,54.6718965,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:31+00:00
+35,Shahama,driving-car,destination,15,900,220.13611708,24.5243742,54.6718965,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:56:31+00:00
+42,Shakhbout City,driving-car,destination,5,300,30.798151769999997,24.3481854,54.6238561,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T16:02:09+00:00
+42,Shakhbout City,driving-car,destination,10,600,130.52117583,24.3481854,54.6238561,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T16:02:09+00:00
+42,Shakhbout City,driving-car,destination,15,900,346.4442992,24.3481854,54.6238561,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T16:02:09+00:00
+34,Westyas Branch,driving-car,destination,5,300,8.80117342,24.4934924,54.5868369,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T16:02:12+00:00
+34,Westyas Branch,driving-car,destination,10,600,40.61669848,24.4934924,54.5868369,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T16:02:12+00:00
+34,Westyas Branch,driving-car,destination,15,900,143.98245783000002,24.4934924,54.5868369,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T16:02:12+00:00
+49,Zawaya Walk,driving-car,destination,5,300,21.14742146,25.3306234,55.4294728,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T16:02:13+00:00
+49,Zawaya Walk,driving-car,destination,10,600,115.09836478,25.3306234,55.4294728,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T16:02:13+00:00
+49,Zawaya Walk,driving-car,destination,15,900,295.68556197000004,25.3306234,55.4294728,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T16:02:13+00:00
+47,Zayed International Airport,driving-car,destination,5,300,2.87601711,24.4527718,54.6411421,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:57:15+00:00
+47,Zayed International Airport,driving-car,destination,10,600,27.059956829999997,24.4527718,54.6411421,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:57:15+00:00
+47,Zayed International Airport,driving-car,destination,15,900,142.92627133000002,24.4527718,54.6411421,Google Places matched coordinates,openrouteservice/HeiGIT; OpenStreetMap road network,2026-09-02T15:57:15+00:00

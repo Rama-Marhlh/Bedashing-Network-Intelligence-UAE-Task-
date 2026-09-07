@@ -1,0 +1,30 @@
+[project]
+name = "bedashing-analytics-workspace"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "h3>=4.1,<5",
+  "openpyxl>=3.1,<4",
+  "pydantic>=2.9,<3",
+  "pydantic-settings>=2.5,<3",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3,<9",
+  "ruff>=0.6,<1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["apps/api/src"]
+testpaths = ["apps/api/tests", "tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.ruff.format]
+quote-style = "double"

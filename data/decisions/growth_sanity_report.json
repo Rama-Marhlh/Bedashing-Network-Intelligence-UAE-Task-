@@ -1,0 +1,28 @@
+{
+  "purpose": "Sanity review of broad analytical GROW clusters before dashboard publication.",
+  "input_growth_clusters": 171,
+  "shortlist_size": 10,
+  "minimum_candidate_separation_km": 5.0,
+  "spacing_rejections_before_shortlist_completion": 0,
+  "status_counts": {
+    "REVIEW_DATA_GAP": 125,
+    "EXCLUDE_FROM_SHORTLIST": 39,
+    "SHORTLIST": 5,
+    "SHORTLIST_AFTER_SPLIT": 2
+  },
+  "flag_counts": {
+    "NEAR_EXISTING_BRANCH": 7,
+    "LOW_CELL_POPULATION": 32,
+    "LIMITED_COVERAGE_GAP": 4,
+    "BROAD_CLUSTER_REQUIRES_SUBMARKET_SPLIT": 5,
+    "NO_LOCAL_COMPETITOR_OBSERVATIONS": 157,
+    "NO_DIRECT_COMPETITOR_OBSERVATIONS": 5,
+    "NO_NAMED_MARKET_ANCHOR": 157
+  },
+  "interpretation": {
+    "candidate": "A high-potential H3 search area for further site selection.",
+    "not_claimed": "Not a recommended lease, exact storefront, forecast revenue or investment approval.",
+    "cluster": "A connected market region; large clusters must be split into operational submarkets.",
+    "zero_competitors": "No competitors observed in this dataset within 3 km; not proof that none exist."
+  }
+}

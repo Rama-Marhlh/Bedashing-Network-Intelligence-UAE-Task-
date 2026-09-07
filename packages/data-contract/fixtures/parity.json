@@ -1,0 +1,16 @@
+{
+  "confidence": { "score": 76, "level": "MEDIUM" },
+  "source": {
+    "name": "OpenRouteService with OpenStreetMap roads",
+    "retrieved_at": "2026-09-02T18:08:06+00:00",
+    "scope": "Modelled destination drive-time catchments",
+    "caution": "Not live traffic or observed customer origins"
+  },
+  "explanation": {
+    "recommendation": "HOLD",
+    "explanation": "Evidence is mixed.",
+    "positive_drivers": "Unique network coverage",
+    "negative_drivers": "Observed competitor density",
+    "limitations": "Revenue and utilization are unavailable."
+  }
+}
