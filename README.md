@@ -6,16 +6,49 @@ growth areas. It combines a Next.js/MapLibre interface with FastAPI and a Pydant
 
 This system supports human review. It does **not** automate branch closure, leasing, or investment.
 
-## Quick start for time-constrained reviewers
+## Technical stack
+
+| Layer          | Technology                       | Responsibility                                                      |
+| -------------- | -------------------------------- | ------------------------------------------------------------------- |
+| Web            | Next.js 15, React 19, TypeScript | Dashboard pages, state, analyst panel, and API integration          |
+| Mapping        | MapLibre GL                      | Branch, catchment, competitor, whitespace, and growth visualization |
+| API            | FastAPI, Python 3.11+, Pydantic  | Validated HTTP endpoints and response contracts                     |
+| AI             | Pydantic AI, OpenAI `gpt-5-mini` | Intent interpretation and grounded tool selection                   |
+| Data contracts | Pydantic and Zod                 | Runtime validation across Python and TypeScript                     |
+| Tests          | pytest and Vitest                | API, analytical, contract, state, and component verification        |
+
+## Clone and run locally
+
+These instructions are designed for a clean computer and are the recommended evaluation path.
 
 ### Prerequisites
 
 - Python 3.11+
 - Node.js 20+ and npm
-- A valid OpenAI API key
+- Git
+- A valid OpenAI API key for AI analyst evaluation
 - Free local ports `8000` and `3001`
 
-### 1. Install
+Confirm the required tools:
+
+```powershell
+git --version
+python --version
+node --version
+npm --version
+```
+
+### 1. Clone the GitHub repository
+
+```powershell
+git clone https://github.com/Rama-Marhlh/Bedashing-Network-Intelligence-UAE-Task-.git bedashing-network-intelligence
+cd bedashing-network-intelligence
+```
+
+The final argument gives the local folder a clean name even though the GitHub repository name ends
+with a hyphen.
+
+### 2. Install Python and JavaScript dependencies
 
 From the repository root in PowerShell:
 
@@ -29,9 +62,16 @@ npm run sync:data
 `sync:data` copies the validated `app_data/` snapshot to `apps/web/public/app_data/`; it does not
 recollect external data.
 
-### 2. Configure
+### 3. Configure environment variables
 
-Create/update the root `.env`:
+Create a local environment file from the committed template:
+
+```powershell
+Copy-Item .env.example .env
+code .env
+```
+
+Set these values in the root `.env`:
 
 ```dotenv
 ANALYST_MODE=llm
@@ -41,9 +81,9 @@ ANALYST_TIMEOUT_SECONDS=90
 ```
 
 Keep the key server-side and never use a `NEXT_PUBLIC_` prefix. The root `.env` overrides stale
-terminal values. Restart FastAPI after changing it.
+terminal values. `.env` is ignored by Git; restart FastAPI after changing it.
 
-### 3. Run the API
+### 4. Start and verify FastAPI
 
 Terminal 1:
 
@@ -51,7 +91,7 @@ Terminal 1:
 .\.venv\Scripts\python.exe -m uvicorn bedashing_api.main:app --app-dir apps/api/src --reload --host 127.0.0.1 --port 8000
 ```
 
-Verify it:
+In a third terminal, verify the backend:
 
 ```powershell
 Invoke-RestMethod http://127.0.0.1:8000/health
@@ -60,7 +100,9 @@ Invoke-RestMethod http://127.0.0.1:8000/health
 Expected: `status=ok` and `mode=llm`. If it says `static`, stop the old API process, verify `.env`,
 and restart it.
 
-### 4. Run the dashboard
+You can also open the interactive API documentation at <http://127.0.0.1:8000/docs>.
+
+### 5. Start the dashboard
 
 Terminal 2:
 
@@ -70,7 +112,7 @@ npm run dev:web -- --port 3001
 
 Open <http://localhost:3001/>. The analyst header should show that the AI model is connected.
 
-### 5. Smoke test
+### 6. Smoke-test the model-backed analyst
 
 ```powershell
 $body = @{ question = "Tell me about the total branches and their analysis" } | ConvertTo-Json
@@ -82,64 +124,63 @@ Invoke-RestMethod `
 Model answers can take several seconds because the LLM selects grounded tools and the result must
 pass response validation.
 
-## Publish this project to GitHub
+## GitHub development workflow
 
-The repository ignores `.env`, virtual environments, dependencies, build output, caches, and the
-generated browser copy of `app_data`. Before publishing, confirm that `.env` remains ignored so the
-OpenAI and data-provider keys are never uploaded.
-
-### Option A: GitHub CLI (fastest)
-
-Install and authenticate the GitHub CLI if it is not already available:
+The upstream repository is
+<https://github.com/Rama-Marhlh/Bedashing-Network-Intelligence-UAE-Task->. After cloning it, confirm
+the configured remote with:
 
 ```powershell
-gh auth login
+git remote -v
 ```
 
-Then run these commands from the project root. Replace `bedashing-geospatial-decision-support` if
-you want a different repository name:
+### Configure Git identity once
+
+Use the name and email connected to your GitHub account:
 
 ```powershell
-git init
-git branch -M main
-git check-ignore .env
-git add .
-git status
-git commit -m "Initial Bedashing geospatial decision-support release"
-gh repo create bedashing-geospatial-decision-support --private --source=. --remote=origin --push
+git config --global user.name "YOUR-GITHUB-USERNAME"
+git config --global user.email "YOUR-GITHUB-EMAIL"
 ```
 
-`git check-ignore .env` should print `.env`. Review `git status` before committing and confirm that
-`.env`, `.venv`, `node_modules`, and `.next` are absent. Change `--private` to `--public` only if the
-data and code have been approved for public release.
+Remove `--global` if the identity should apply only to this repository.
 
-### Option B: Create the GitHub repository in the browser
+### Download upstream changes
 
-Create an empty repository on GitHub without adding a README, `.gitignore`, or license. Copy its
-HTTPS URL, then run:
+Before beginning new work:
 
 ```powershell
-git init
-git branch -M main
-git check-ignore .env
-git add .
-git status
-git commit -m "Initial Bedashing geospatial decision-support release"
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
+git switch main
+git pull --ff-only origin main
 ```
 
-For later updates:
+### Create a branch and publish changes
 
 ```powershell
+git switch -c docs/improve-technical-readme
 git status
 git add README.md
-git commit -m "Improve technical documentation"
-git push
+git diff --cached
+git commit -m "docs: improve technical setup instructions"
+git push -u origin docs/improve-technical-readme
 ```
 
-Use `git add .` instead of `git add README.md` when a later commit intentionally includes all
-reviewed project changes. Never use `git add -f .env`.
+Open a pull request on GitHub from `docs/improve-technical-readme` into `main`. If working directly
+on `main` is required, use `git push origin main` after committing.
+
+### Secret and staging checks
+
+Before every commit:
+
+```powershell
+git check-ignore .env
+git status --short
+git diff --cached
+```
+
+`git check-ignore .env` must print `.env`. Confirm that `.env`, `.venv`, `node_modules`, `.next`,
+temporary browser profiles, and editor/agent caches are absent from the staged changes. Never use
+`git add -f .env`. Prefer adding named files over `git add .` when only a few files changed.
 
 ## What to evaluate
 
