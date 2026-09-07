@@ -418,12 +418,3 @@ and relationships.
 Material decisions require finance, operations, real-estate, leadership, and local-market review.
 Keep secrets only in ignored `.env` files, rotate exposed keys, and never place secrets in
 `NEXT_PUBLIC_*` variables.
-
-## Additional documentation
-
-- [Demo walkthrough](docs/demo-walkthrough.md)
-- [Requirements audit](docs/requirements-audit.md)
-- [Phase 1 validation](docs/phase-1-validation.md)
-
-Screenshots in `artifacts/` are illustrative. The running product, committed data, API responses,
-and in-application methodology are authoritative.
