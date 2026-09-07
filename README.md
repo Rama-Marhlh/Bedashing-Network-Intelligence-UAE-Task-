@@ -40,6 +40,8 @@ npm --version
 
 ### 1. Clone the GitHub repository
 
+Repository: [Bedashing Network Intelligence UAE Task](https://github.com/Rama-Marhlh/Bedashing-Network-Intelligence-UAE-Task-)
+
 ```powershell
 git clone https://github.com/Rama-Marhlh/Bedashing-Network-Intelligence-UAE-Task-.git bedashing-network-intelligence
 cd bedashing-network-intelligence
@@ -378,31 +380,6 @@ npm run start --workspace @bedashing/web -- -p 3001
 ```
 
 FastAPI must remain running for AI chat and dynamic intelligence endpoints.
-
-## Troubleshooting
-
-### Header says “Static fallback — no AI model”
-
-Check `/health`, verify `ANALYST_MODE=llm` and the API key, restart FastAPI, then hard-refresh the
-browser. Greetings and simple counts may be deterministic, so they do not prove the model is active;
-`/health` must report `mode=llm`.
-
-### Analyst times out
-
-The configured model uses low reasoning effort for responsive grounded tool calls. If the provider
-is slow, increase `ANALYST_TIMEOUT_SECONDS` up to 120, restart FastAPI, and inspect its terminal for
-timeout, authentication, HTTP, or output-validation warnings.
-
-### Dashboard cannot reach FastAPI
-
-Confirm port 8000 is listening. For another host/port, set `NEXT_PUBLIC_ANALYST_API_URL` before
-starting Next.js. Backend CORS currently permits localhost ports 3000–3003 and
-`127.0.0.1:3003`.
-
-### Data appears stale
-
-Run `npm run sync:data`, refresh Next.js, and use `npm run validate:data` to verify counts, hashes,
-and relationships.
 
 ## Known limitations and responsible use
 
