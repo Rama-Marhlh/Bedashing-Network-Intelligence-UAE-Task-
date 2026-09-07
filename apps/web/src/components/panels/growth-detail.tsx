@@ -146,7 +146,6 @@ export function GrowthClusterDetail({ cluster }: { cluster: GrowthCluster }) {
         <MetricRow label="Coverage gap" value={formatPercent(cluster.coverage_gap_pct)} />
         <MetricRow label="GROW cells" value={formatNumber(cluster.grow_cell_count)} />
       </dl>
-      <p className="limitation-note">{cluster.decision_limitations}</p>
     </div>
   );
 }
