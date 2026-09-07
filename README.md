@@ -250,6 +250,76 @@ validates the final answer and action plan.
 | `scripts/`                          | Publish, sync, and validation utilities                |
 | `docs/`                             | Audit, validation, and demo documentation              |
 
+## Agentic chatbot UI with CopilotKit
+
+The **AI Portfolio Analyst** is an agentic user interface: it can answer questions and, when the
+user explicitly requests it, translate the answer into safe dashboard operations. CopilotKit
+connects the React interface to this agent workflow and makes current application state and typed
+frontend capabilities available at the UI boundary.
+
+### CopilotKit integration
+
+The application is wrapped in the CopilotKit provider from `@copilotkit/react-core/v2`. The provider
+uses the local Next.js route `/api/copilotkit`, which proxies AG-UI requests to FastAPI's
+`/api/agui` SSE endpoint. The custom analyst panel also calls `/api/analyst/query` directly so it can
+render the project's structured `AnalystResponse` and execute its validated action plan.
+
+The panel uses two core CopilotKit patterns:
+
+- `useAgentContext` publishes bounded, JSON-serializable dashboard context, including the active
+  page, selected branch or growth area, compared branches, recommendation filters, catchment
+  duration, visible layers, and competitor filters.
+- `useFrontendTool` registers typed browser capabilities such as filtering recommendations,
+  selecting branches or whitespace cells, changing catchment duration, toggling map layers,
+  navigating between dashboard sections, fitting the map, and resetting filters.
+
+### Request and action lifecycle
+
+```text
+User asks a question in the analyst panel
+  -> React sends the question and bounded dashboard context to FastAPI
+  -> Pydantic AI asks gpt-5-mini to select the smallest relevant data tools
+  -> deterministic tools read and calculate from validated app_data
+  -> Pydantic validates the factual response and proposed action plan
+  -> React validates every action again with a Zod discriminated union
+  -> approved actions update shared dashboard state
+  -> the map, filters, selections, panels, or navigation react to that state
+  -> the chat reports the answer and which actions actually completed
+```
+
+This creates a shared interaction model: a branch selected on the map becomes context for the next
+question, while an explicit chat request such as “show only PROTECT branches” can update the same
+filter state used by the visual controls.
+
+### Grounding and safety boundaries
+
+- The LLM interprets intent; deterministic backend tools provide the factual values.
+- The model cannot execute arbitrary browser code. It can only propose actions from the supported
+  action schema.
+- Informational questions produce no dashboard mutations. Actions are allowed only for explicit
+  requests such as show, select, filter, open, navigate, zoom, or reset.
+- Branch-specific workflows resolve the branch before querying branch data.
+- Competitor catchment workflows must use the same resolved branch, duration, and competitor tier
+  in both the data query and UI action.
+- The backend validates the output with Pydantic, and the browser independently validates action
+  names and parameters with Zod before dispatching them.
+- The UI reports completed or rejected actions instead of implying that an operation succeeded.
+- Recent conversation context is bounded, and full review datasets are never sent to the model.
+
+### Example agentic interactions
+
+| User request                                                   | Grounded behavior                                                 | Possible UI result                                       |
+| -------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------- |
+| “How many SHRINK branches are there?”                          | Query recommendation data and return the current count            | No UI change                                             |
+| “Show only SHRINK branches”                                    | Validate the group and create a filter action plan                | Open overview and filter branch markers                  |
+| “Show direct competitors in this branch's 10-minute catchment” | Resolve the selected branch and query its catchment relationships | Select branch, set 10 minutes, filter DIRECT, show layer |
+| “Compare these branches”                                       | Retrieve validated comparison metrics                             | Populate comparison state and open Performance           |
+| “Show the reviewed growth candidates”                          | Query the reviewed shortlist                                      | Show the shortlist layer and fit the map                 |
+
+The header checks FastAPI's `/health` endpoint and displays whether the AI agent is online, in
+static fallback mode, or unavailable. Greetings and a small number of unambiguous aggregate answers
+can be deterministic; model-backed analysis requires `mode=llm`.
+
 ## Configuration
 
 | Variable                      | Default                 | Meaning                                   |
