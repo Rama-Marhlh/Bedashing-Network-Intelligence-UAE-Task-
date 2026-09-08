@@ -88,7 +88,15 @@ function parseSelectedFeature(
     };
   }
   if (feature.layer.id === GROWTH_CLUSTER_LAYER_ID) {
-    return { kind: "growth-cluster", properties: growthClusterSchema.parse(feature.properties) };
+    return {
+      kind: "growth-cluster",
+      properties: growthClusterSchema.parse({
+        // MapLibre removes null-valued GeoJSON properties from rendered features.
+        market_anchor_name: null,
+        market_anchor_address: null,
+        ...feature.properties,
+      }),
+    };
   }
   if (feature.layer.id === WHITESPACE_LAYER_ID) {
     // MapLibre omits null-valued GeoJSON properties from rendered features.
