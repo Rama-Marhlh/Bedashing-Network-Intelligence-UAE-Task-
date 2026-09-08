@@ -19,7 +19,25 @@ Watch the project walkthrough and dashboard demonstration:
 
 ### Performance and Health
 
+#### Portfolio health summary
+
 ![Bedashing Performance and Health dashboard](<photos/dashbored 2 .png>)
+
+#### Branch ranking
+
+![Bedashing branch performance ranking](<photos/dashbored 2_2.png>)
+
+#### Branch comparison
+
+![Bedashing branch comparison](<photos/dashbored 2_3.png>)
+
+#### Health matrix
+
+![Bedashing customer and competitive health matrix](<photos/dashbored 2_4.png>)
+
+#### Performance analysis details
+
+![Bedashing performance analysis details](<photos/dashbored2_5.png>)
 
 ## AI Portfolio Analyst chatbot
 
