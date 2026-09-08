@@ -6,6 +6,21 @@ growth areas. It combines a Next.js/MapLibre interface with FastAPI and a Pydant
 
 This system supports human review. It does **not** automate branch closure, leasing, or investment.
 
+## Video demo
+
+Watch the project walkthrough and dashboard demonstration:
+[Bedashing Network Intelligence video demo](https://drive.google.com/file/d/109UD_P0xNHOyxFHU2_RTJEs3WGqWo7IE/view?usp=sharing).
+
+## Dashboard screenshots
+
+### Network Overview
+
+![Bedashing Network Overview dashboard](<photos/dashbored 1.png>)
+
+### Performance and Health
+
+![Bedashing Performance and Health dashboard](<photos/dashbored 2 .png>)
+
 ## Technical stack
 
 | Layer          | Technology                       | Responsibility                                                      |
