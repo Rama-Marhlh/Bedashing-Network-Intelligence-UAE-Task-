@@ -426,6 +426,12 @@ limitations, and a bounded action plan.
 
 ## Methodology
 
+For the complete calculation logic, classifications, interpretation rules, and limitations for
+every dashboard output, read the **[Detailed Project Methodology](METHODOLOGY.md)**. It covers the
+branch portfolio, reviews, customer signal, competitors, catchments, overlap, health scoring,
+recommendations, services, financial scenarios, whitespace, clusters, shortlist validation,
+performance views, and the CopilotKit AI analyst.
+
 ### Branch health
 
 ```text
