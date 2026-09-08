@@ -21,6 +21,35 @@ Watch the project walkthrough and dashboard demonstration:
 
 ![Bedashing Performance and Health dashboard](<photos/dashbored 2 .png>)
 
+## AI Portfolio Analyst chatbot
+
+The dashboard includes an **AI Portfolio Analyst** built with **CopilotKit**, **Pydantic AI**, and
+OpenAI `gpt-5-mini`. The chatbot is connected to the dashboard rather than operating as a separate
+general-purpose chat window. It receives a limited view of the current application state, including
+the active page, selected branch, filters, comparison choices, catchment duration, and visible map
+layers.
+
+Users can ask factual questions such as:
+
+- "How many SHRINK branches are there?"
+- "Why is Mohammed Bin Zayed City classified as HOLD?"
+- "Compare Al Ain with Ras Al Khaimah."
+- "Which branches have the highest overlap?"
+- "Explain the reviewed growth opportunities."
+
+The assistant can also respond to explicit interface commands such as "show only SHRINK branches,"
+"open the Performance page," or "display direct competitors in the 10-minute catchment." CopilotKit
+exposes only approved, typed interface actions, so the model cannot run arbitrary browser code.
+
+The language model interprets the request and chooses the relevant analytical tools. Portfolio facts
+come from deterministic backend functions reading the validated application snapshot. Pydantic
+validates the backend response, and Zod validates proposed frontend actions before the shared
+dashboard state changes. Informational questions do not change the interface unless the user asks
+for an action.
+
+See [Agentic chatbot UI with CopilotKit](#agentic-chatbot-ui-with-copilotkit) for the complete
+integration architecture, request lifecycle, safety boundaries, and example interactions.
+
 ## Technical stack
 
 | Layer          | Technology                       | Responsibility                                                      |
